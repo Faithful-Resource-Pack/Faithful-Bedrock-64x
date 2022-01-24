@@ -1,21 +1,30 @@
 {
-  "format_version": 1,
+  "format_version": 2,
   "header": {
-    "description": "§4Compliance x64 made by §6Compliance Team",
-    "name": "Faithful 64x",
-    "platform_locked": false,
-    "uuid": "ae1647f4-ed46-4d53-9d0e-a025ef156578",
+    "description": "A default-style 64x resource pack for Minecraft: Bedrock Edition.",
+    "min_engine_version": [
+      1,
+      18,
+      0
+    ],
+    "name": "Compliance 64x Bedrock Beta 2",
+    "uuid": "fc88543b-7d67-402c-8deb-7728840cc051",
     "version": [
+      1,
       0,
-      0,
-      1
+      0
     ]
   },
+  "metadata": {
+      "authors": [ "Compliance Team" ],
+      "license": "https://compliancepack.net/license",
+      "url": "https://compliancepack.net/"
+},
   "modules": [
     {
-      "description": "§4Compliance x64 made by §6Compliance Team",
+      "description": "A default-style 64x resource pack for Minecraft: Bedrock Edition.",
       "type": "resources",
-      "uuid": "3cd8fac9-0f0b-4581-9b5b-b30a48053717",
+      "uuid": "8a619cea-2f63-4b1e-a631-19a43e3f2784",
       "version": [
         0,
         0,
