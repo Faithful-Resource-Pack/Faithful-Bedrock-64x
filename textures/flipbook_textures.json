@@ -1,0 +1,38 @@
+[
+  {
+    "flipbook_texture": "textures/blocks/kelp_a",
+    "atlas_tile": "kelp_a",
+    "ticks_per_frame": 4,
+    "frames": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19 ]
+  },
+  {
+    "flipbook_texture": "textures/blocks/kelp_b",
+    "atlas_tile": "kelp_b",
+    "ticks_per_frame": 4,
+    "frames": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19 ]
+  },
+  {
+    "flipbook_texture": "textures/blocks/kelp_c",
+    "atlas_tile": "kelp_c",
+    "ticks_per_frame": 4,
+    "frames": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19 ]
+  },
+  {
+    "flipbook_texture": "textures/blocks/kelp_d",
+    "atlas_tile": "kelp_d",
+    "ticks_per_frame": 4,
+    "frames": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19 ]
+  },
+  {
+    "flipbook_texture": "textures/blocks/kelp_top",
+    "atlas_tile": "kelp_top",
+    "ticks_per_frame": 4,
+    "frames": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19 ]
+  },
+  {
+    "flipbook_texture": "textures/blocks/kelp_top_bulb",
+    "atlas_tile": "kelp_top_bulb",
+    "ticks_per_frame": 4,
+    "frames": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19 ]
+  }
+]
