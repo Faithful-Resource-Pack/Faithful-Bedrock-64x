@@ -4,8 +4,8 @@
     "description": "The go-to 64x texture pack for Minecraft. Now for Bedrock Edition.",
     "min_engine_version": [
       1,
-      17,
-      0
+      20,
+      80
     ],
     "name": "Faithful 64x",
     "uuid": "3bdb33f0-8822-4d14-91b4-758363bc02c5",
