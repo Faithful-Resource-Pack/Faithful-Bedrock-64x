@@ -39,25 +39,25 @@
   "smithing_input_image_templates@smithing_table_2_pocket.smithing_image": {
     "texture": "textures/ui/templates_slot_overlay",
     "uv": "@smithing_table_2.templates_animation",
-    "uv_size": [ 32, 32 ]
+    "uv_size": [ 64, 64 ]
   },
 
   "smithing_material_image_all@smithing_table_2_pocket.smithing_image": {
     "texture": "textures/ui/smithing_material_slot_overlay",
     "uv": "@smithing_table_2.all_materials_animation",
-    "uv_size": [ 32, 32 ]
+    "uv_size": [ 64, 64 ]
   },
 
   "smithing_input_image_armors@smithing_table_2_pocket.smithing_image": {
     "texture": "textures/ui/armors_slot_overlay",
     "uv": "@smithing_table_2.armors_animation",
-    "uv_size": [ 32, 32 ]
+    "uv_size": [ 64, 64 ]
   },
 
   "smithing_input_image_armors_and_tools@smithing_table_2_pocket.smithing_image": {
     "texture": "textures/ui/armors_and_tools_slot_overlay",
     "uv": "@smithing_table_2.armors_and_tools_animation",
-    "uv_size": [ 32, 32 ]
+    "uv_size": [ 64, 64 ]
   },
 
   "template_overlay_image": {
