@@ -1,5 +1,4 @@
 {
-   "format_version" : [ 1, 1, 0 ],
    "leaves" : {
       "isotropic" : {
          "down" : false,
@@ -129,5 +128,21 @@
       "isotropic" : false,
       "sound" : "dirt_with_roots",
       "textures" : "dirt_with_roots"
+   },
+   "azalea_leaves" : {
+      "isotropic" : {
+         "down" : false,
+         "up" : false
+      },
+      "sound" : "azalea_leaves",
+      "textures" : "azalea_leaves"
+   },
+   "azalea_leaves_flowered" : {
+      "isotropic" : {
+         "down" : false,
+         "up" : false
+      },
+      "sound" : "azalea_leaves",
+      "textures" : "azalea_leaves_flowered"
    }
 }
